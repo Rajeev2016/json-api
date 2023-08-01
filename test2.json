@@ -1,0 +1,44 @@
+{
+"products":[
+    {
+      "id": "P001",
+      "name": "Smartphone X",
+      "description": "A powerful and feature-rich smartphone with an impressive camera and long battery life.",
+      "price": 499.99,
+      "brand": "ABC Electronics",
+      "availability": true
+    },
+    {
+      "id": "P002",
+      "name": "SuperPhone Z",
+      "description": "An advanced smartphone with cutting-edge technology and 5G connectivity.",
+      "price": 799.99,
+      "brand": "XYZ Tech",
+      "availability": true
+    },
+    {
+      "id": "P003",
+      "name": "UltraMobile Y",
+      "description": "A sleek and compact smartphone for on-the-go productivity and entertainment.",
+      "price": 349.99,
+      "brand": "TechGuru",
+      "availability": false
+    },
+    {
+      "id": "P004",
+      "name": "PremiumPhone A",
+      "description": "The ultimate premium smartphone with top-of-the-line features and luxury design.",
+      "price": 1299.99,
+      "brand": "LuxuryTech",
+      "availability": true
+    },
+    {
+      "id": "P005",
+      "name": "MegaPhone 5",
+      "description": "A budget-friendly smartphone packed with essential features for everyday use.",
+      "price": 199.99,
+      "brand": "BudgetGadgets",
+      "availability": false
+    }
+  ]
+  }
